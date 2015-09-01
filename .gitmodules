@@ -1,6 +1,6 @@
 [submodule "vendor/tmux-mem-cpu-load"]
 	path = vendor/tmux-mem-cpu-load
 	url = git://github.com/thewtex/tmux-mem-cpu-load.git
-[submodule "tmux-yank"]
+[submodule "vendor/tmux-yank"]
 	path = vendor/tmux-yank
-	url = https://github.com/tmux-plugins/tmux-yank
+	url = git@github.com:tmux-plugins/tmux-yank.git
